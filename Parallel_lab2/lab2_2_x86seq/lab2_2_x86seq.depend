@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1681626785 source:d:\program files\codeblocks\project\lab2_2_x86seq\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+	<chrono>
+

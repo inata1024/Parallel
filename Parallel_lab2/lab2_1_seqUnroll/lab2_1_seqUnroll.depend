@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1681615055 source:d:\program files\codeblocks\project\lab2_1_sequnroll\main.cpp
+	<iostream>
+	<cstdlib>
+	<chrono>
+	<random>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681626919 source:d:\program files\codeblocks\project\lab2_2_x86sse\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+	<chrono>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1681196796 source:d:\program files\codeblocks\project\lab2_1_x86sse\main.cpp
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+
