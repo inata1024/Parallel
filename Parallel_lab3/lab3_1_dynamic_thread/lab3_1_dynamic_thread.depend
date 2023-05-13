@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682935568 source:d:\program files\codeblocks\project\lab3_1_dynamic_thread\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+

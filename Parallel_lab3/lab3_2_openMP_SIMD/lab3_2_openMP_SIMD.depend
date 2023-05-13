@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1683186096 source:d:\program files\codeblocks\project\lab3_2_openmp_simd\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+	<chrono>
+	<omp.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+

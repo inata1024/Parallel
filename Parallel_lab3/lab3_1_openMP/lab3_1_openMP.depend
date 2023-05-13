@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683901207 source:d:\program files\codeblocks\project\lab3_1_openmp\main.cpp
+	<iostream>
+	<cstdlib>
+	<chrono>
+	<random>
+	<omp.h>
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1683188062 source:d:\program files\codeblocks\project\lab3_1_static_barrier_simd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<semaphore.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+

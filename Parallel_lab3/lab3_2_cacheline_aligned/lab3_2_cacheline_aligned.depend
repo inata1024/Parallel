@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1683203375 source:d:\program files\codeblocks\project\lab3_2_cacheline_aligned\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+	<chrono>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683796151 source:d:\program files\codeblocks\project\lab3_2_openmp_atomic\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+	<chrono>
+	<omp.h>
+

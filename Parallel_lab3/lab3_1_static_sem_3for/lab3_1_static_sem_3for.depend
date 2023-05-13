@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1683187476 source:d:\program files\codeblocks\project\lab3_1_static_sem_3for\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<pthread.h>
+	<semaphore.h>
+

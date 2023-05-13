@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1683951472 source:d:\program files\codeblocks\project\lab3_2_openmp_dynamic\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<math.h>
+	<chrono>
+	<omp.h>
+
